@@ -5,9 +5,7 @@ import android.graphics.Typeface;
 import com.etiennelawlor.trestle.library.Span;
 import com.etiennelawlor.trestle.library.Trestle;
 
-/**
- * Created by etiennelawlor on 4/13/16.
- */
+
 public class TrestleUtility {
 
     public static CharSequence getFormattedText(String text, Typeface font) {

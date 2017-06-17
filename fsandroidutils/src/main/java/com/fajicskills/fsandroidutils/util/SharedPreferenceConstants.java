@@ -1,6 +1,6 @@
 package com.fajicskills.fsandroidutils.util;
 
 public interface SharedPreferenceConstants {
-  String KEYSPACE = "LOOP";
+  String KEYSPACE = "FSANDROIDUILS";
   String USERID = "THEUSERSID";
 }

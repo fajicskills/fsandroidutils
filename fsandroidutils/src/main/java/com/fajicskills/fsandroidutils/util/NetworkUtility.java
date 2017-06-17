@@ -9,9 +9,7 @@ import java.net.ConnectException;
 import java.net.SocketTimeoutException;
 import java.net.UnknownHostException;
 
-/**
- * Created by etiennelawlor on 6/16/16.
- */
+
 
 public class NetworkUtility {
 

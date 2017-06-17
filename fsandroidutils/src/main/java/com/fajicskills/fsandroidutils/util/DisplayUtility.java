@@ -15,9 +15,7 @@ import com.fajicskills.fsandroidutils.R;
 import com.fajicskills.fsandroidutils.models.User;
 
 
-/**
- * Created by etiennelawlor on 12/19/15.
- */
+
 public class DisplayUtility {
 
     // region Utility Methods

@@ -5,9 +5,7 @@ import java.util.Map;
 import okhttp3.HttpUrl;
 import okhttp3.Request;
 
-/**
- * Created by etiennelawlor on 12/4/16.
- */
+
 
 public class RequestUtility {
 

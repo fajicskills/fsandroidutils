@@ -3,9 +3,7 @@ package com.fajicskills.fsandroidutils.util;
 import retrofit2.Call;
 import timber.log.Timber;
 
-/**
- * Created by etiennelawlor on 6/1/16.
- */
+
 
 public class NetworkLogUtility {
 
