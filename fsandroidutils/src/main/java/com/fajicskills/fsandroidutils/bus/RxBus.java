@@ -3,9 +3,6 @@ package com.fajicskills.fsandroidutils.bus;
 import rx.Observable;
 import rx.subjects.PublishSubject;
 
-/**
- * Created by etiennelawlor on 6/20/16.
- */
 
 public class RxBus {
 

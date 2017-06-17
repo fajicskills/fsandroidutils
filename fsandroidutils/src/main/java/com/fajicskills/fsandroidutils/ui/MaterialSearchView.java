@@ -31,10 +31,6 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-
-
-//import com.etiennelawlor.loop.realm.RealmUtility;
-
 import com.fajicskills.fsandroidutils.R;
 import com.fajicskills.fsandroidutils.adapters.SuggestionsAdapter;
 import com.fajicskills.fsandroidutils.bus.RxBus;

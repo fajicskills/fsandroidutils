@@ -11,9 +11,6 @@ import com.squareup.picasso.Transformation;
 
 import java.util.Arrays;
 
-/**
- * Created by etiennelawlor on 7/8/16.
- */
 
 public final class RoundedTransformationBuilder {
 

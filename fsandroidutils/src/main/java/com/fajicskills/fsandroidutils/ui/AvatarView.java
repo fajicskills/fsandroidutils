@@ -23,12 +23,6 @@ import com.fajicskills.fsandroidutils.util.DisplayUtility;
 import com.squareup.picasso.Picasso;
 import com.squareup.picasso.Transformation;
 
-import butterknife.BindView;
-import butterknife.ButterKnife;
-
-/**
- * Created by etiennelawlor on 7/8/16.
- */
 
 public class AvatarView extends FrameLayout {
 

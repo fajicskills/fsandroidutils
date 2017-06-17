@@ -7,9 +7,6 @@ import android.util.AttributeSet;
 import com.fajicskills.fsandroidutils.util.CustomFontUtils;
 
 
-/**
- * Created by etiennelawlor on 12/14/15.
- */
 public class CustomFontTextView extends AppCompatTextView {
 
     // region Constructors
