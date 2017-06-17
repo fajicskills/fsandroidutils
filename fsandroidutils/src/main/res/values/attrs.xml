@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomFontTextView">
+        <attr name="textFont" format="enum">
+            <enum name="ubuntu_bold" value="0" />
+            <enum name="ubuntu_boldItalic" value="1" />
+            <enum name="ubuntu_medium" value="2" />
+            <enum name="ubuntu_mediumItalic" value="3" />
+            <enum name="ubuntu_regular" value="4" />
+            <enum name="ubuntu_italic" value="5" />
+            <enum name="ubuntu_light" value="6" />
+            <enum name="ubuntu_lightItalic" value="7" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="LoadingImageView">
+        <attr name="anim_auto_start" format="boolean" />
+        <attr name="mask_color" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="FloatingActionButton">
+        <attr name="fab_colorPressed" format="color" />
+        <attr name="fab_colorNormal" format="color" />
+        <attr name="fab_colorRipple" format="color" />
+        <attr name="fab_shadow" format="boolean" />
+        <attr name="fab_type" format="enum">
+            <enum name="normal" value="0" />
+            <enum name="mini" value="1" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="MaterialSearchView">
+        <attr name="leftDrawableType" format="enum">
+            <enum name="menu" value="0" />
+            <enum name="back" value="1" />
+            <enum name="search" value="2" />
+            <enum name="avatar" value="3" />
+        </attr>
+        <attr name="hintText" format="string" />
+        <attr name="voicePrompt" format="string" />
+        <attr name="layout_marginTop" format="dimension"/>
+        <attr name="layout_marginBottom" format="dimension"/>
+        <attr name="layout_marginLeft" format="dimension"/>
+        <attr name="layout_marginRight" format="dimension"/>
+    </declare-styleable>
+
+    <!--<declare-styleable name="ScrimInsetsView">-->
+        <!--<attr name="insetForeground" format="reference|color" />-->
+    <!--</declare-styleable>-->
+
+    <!--<declare-styleable name="RoundedImageView">-->
+        <!--<attr name="corner_radius" format="dimension" />-->
+        <!--<attr name="border_width" format="dimension" />-->
+        <!--<attr name="border_color" format="color" />-->
+        <!--<attr name="round_background" format="boolean" />-->
+        <!--<attr name="is_oval" format="boolean" />-->
+        <!--<attr name="android:scaleType" />-->
+    <!--</declare-styleable>-->
+
+    <declare-styleable name="AvatarView">
+        <attr name="av_radius" format="dimension" />
+    </declare-styleable>
+
+</resources>

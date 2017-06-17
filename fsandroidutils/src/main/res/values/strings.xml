@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FS AndroidUtils</string>
+
+    <string name="email_subject">Fajic Skills Support</string>
+    <string name="email_message">Please describe the issue you are having here.</string>
+    <string name="support_email">contact@fajicskills.com</string>
+
+    <string name="content_desc">Content Description</string>
+
+</resources>
