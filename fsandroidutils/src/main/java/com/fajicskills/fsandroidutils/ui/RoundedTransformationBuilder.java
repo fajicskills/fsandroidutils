@@ -142,9 +142,9 @@ public final class RoundedTransformationBuilder {
     }
 
     /**
-     * Creates a {@link Transformation} for use with picasso.
+     * Creates a Transformation for use with picasso.
      *
-     * @return the {@link Transformation}
+     * @return the  Transformation
      */
     public Transformation build() {
         return new Transformation() {
