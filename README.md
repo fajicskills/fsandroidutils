@@ -17,6 +17,15 @@ Design your Android app quickly with our utils library.
 * **CustomFontEditText** EditText with a typeface from your assets quickly. Default font is Ubuntu.ttf
 * **
 
+Download
+========
+
+In your dependences
+```groovy
+dependencies {
+  compile 'com.fajicskills.fsandroidutils:fsandroidutils:1.0.0'
+}
+```
 Javadoc
 =======
 You can have the javadoc here:
