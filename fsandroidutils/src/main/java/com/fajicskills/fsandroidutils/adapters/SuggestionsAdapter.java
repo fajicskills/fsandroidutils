@@ -17,9 +17,6 @@ import com.etiennelawlor.trestle.library.Trestle;
 import com.fajicskills.fsandroidutils.R;
 import com.fajicskills.fsandroidutils.util.FontCache;
 
-/**
- * Created by etiennelawlor on 5/23/15.
- */
 
 public class SuggestionsAdapter extends BaseAdapter<String> {
 
