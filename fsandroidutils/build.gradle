@@ -38,7 +38,7 @@ ext {
 
     libraryDescription = 'Design your app quickly with your utils library'
 
-    siteUrl = 'https://github.com/fajicskills/fsandroidutils'
+    siteUrl = 'https://fajicskills.github.io/fsandroidutils/'
     gitUrl = 'https://github.com/fajicskills/fsandroidutils.git'
 
     libraryVersion = '1.0.0'
