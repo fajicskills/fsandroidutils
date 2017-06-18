@@ -22,11 +22,7 @@ Download
 
 In your dependences
 ```groovy
-repositories {
-    maven {
-        url 'https://dl.bintray.com/angebagui/maven/'
-    }
-}
+
 dependencies {
   compile 'com.fajicskills.fsandroidutils:fsandroidutils:1.0.0'
 }
