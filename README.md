@@ -22,15 +22,18 @@ Download
 
 In your dependences
 ```groovy
+repositories {
+    maven {
+        url 'https://dl.bintray.com/angebagui/maven/'
+    }
+}
 dependencies {
   compile 'com.fajicskills.fsandroidutils:fsandroidutils:1.0.0'
 }
 ```
 Javadoc
 =======
-You can have the javadoc here:
-
-     https://fajicskills.github.io/fsandroidutils/javadoc/
+You can have the javadoc [here](https://fajicskills.github.io/fsandroidutils/javadoc/)
       
 Licences
 --------
