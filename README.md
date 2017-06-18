@@ -30,7 +30,7 @@ Javadoc
 =======
 You can have the javadoc here:
 
-      https://github.com/fajicskills/fsandroidutils/fsandroidutils/javadoc/
+      https://github.com/fajicskills/fsandroidutils/tree/master/javadoc
       
 Licences
 --------
